@@ -131,7 +131,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16429841,
-        "download_count": 177,
+        "download_count": 188,
         "created_at": "2024-09-18T09:31:33Z",
         "updated_at": "2024-09-18T09:31:35Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_3.0.2_aarch64.dmg"
@@ -165,7 +165,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 94708928,
-        "download_count": 91,
+        "download_count": 97,
         "created_at": "2024-09-18T09:33:03Z",
         "updated_at": "2024-09-18T09:33:05Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_3.0.2_amd64.AppImage"
@@ -233,7 +233,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16248974,
-        "download_count": 240,
+        "download_count": 256,
         "created_at": "2024-09-18T09:33:01Z",
         "updated_at": "2024-09-18T09:33:02Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_3.0.2_amd64.deb"
@@ -267,7 +267,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10743523,
-        "download_count": 416,
+        "download_count": 439,
         "created_at": "2024-09-18T09:33:21Z",
         "updated_at": "2024-09-18T09:33:22Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_3.0.2_x64-setup.exe"
@@ -335,7 +335,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16856075,
-        "download_count": 50,
+        "download_count": 54,
         "created_at": "2024-09-18T09:33:36Z",
         "updated_at": "2024-09-18T09:33:37Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_3.0.2_x64.dmg"
@@ -369,7 +369,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 13876331,
-        "download_count": 131,
+        "download_count": 135,
         "created_at": "2024-09-18T09:31:35Z",
         "updated_at": "2024-09-18T09:31:36Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.2/Surrealist_aarch64.app.tar.gz"
@@ -479,7 +479,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/surrealdb/surrealist/tarball/surrealist-v3.0.2",
     "zipball_url": "https://api.github.com/repos/surrealdb/surrealist/zipball/surrealist-v3.0.2",
-    "body": "This patch release addresses some issues reported since the previous release\r\n\r\n- Bumped the minimum version to SurrealDB 2.0.0 stable\r\n- Fixed initialisation error\r\n\r\nCompatible with SurrealDB 2.0.0 with limited support for 1.4.2+"
+    "body": "This patch release addresses some issues reported since the previous release\r\n\r\n- Bumped the minimum version to SurrealDB 2.0.0 stable\r\n- Fixed initialisation error\r\n\r\nCompatible with SurrealDB 2.0.0 with limited support for 1.4.2+",
+    "reactions": {
+      "url": "https://api.github.com/repos/surrealdb/surrealist/releases/175618704/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 1
+    }
   },
   {
     "url": "https://api.github.com/repos/surrealdb/surrealist/releases/175605155",
@@ -715,7 +727,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16248362,
-        "download_count": 4,
+        "download_count": 6,
         "created_at": "2024-09-18T08:19:47Z",
         "updated_at": "2024-09-18T08:19:48Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.1/Surrealist_3.0.1_amd64.deb"
@@ -961,7 +973,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/surrealdb/surrealist/tarball/surrealist-v3.0.1",
     "zipball_url": "https://api.github.com/repos/surrealdb/surrealist/zipball/surrealist-v3.0.1",
-    "body": "This patch release addresses some issues reported since the previous release and upgrades the internal SurrealDB version to 2.0.1\r\n\r\n- Updated SurrealDB to 2.0.1\r\n- Fixed command palette crashing when connected to a 1.x instance\r\n- Fixed empty access fields array causing UI crashes\r\n- Fixed IAM error when connecting as namespace or database user\r\n- Minor appearance change to the table designer drawer\r\n\r\nCompatible with SurrealDB 2.0.0 with limited support for 1.4.2+"
+    "body": "This patch release addresses some issues reported since the previous release and upgrades the internal SurrealDB version to 2.0.1\r\n\r\n- Updated SurrealDB to 2.0.1\r\n- Fixed command palette crashing when connected to a 1.x instance\r\n- Fixed empty access fields array causing UI crashes\r\n- Fixed IAM error when connecting as namespace or database user\r\n- Minor appearance change to the table designer drawer\r\n\r\nCompatible with SurrealDB 2.0.0 with limited support for 1.4.2+",
+    "reactions": {
+      "url": "https://api.github.com/repos/surrealdb/surrealist/releases/175605155/reactions",
+      "total_count": 1,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 1
+    }
   },
   {
     "url": "https://api.github.com/repos/surrealdb/surrealist/releases/175487391",
@@ -1197,7 +1221,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16247924,
-        "download_count": 91,
+        "download_count": 93,
         "created_at": "2024-09-17T15:27:14Z",
         "updated_at": "2024-09-17T15:27:14Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.0/Surrealist_3.0.0_amd64.deb"
@@ -1446,7 +1470,7 @@
     "body": "In addition to our spectacular [SurrealDB 2.0 release](https://surrealdb.com/blog/challenge-accepted-announcing-surrealdb-2-0/), we are also excited to announce that the next major iteration of Surrealist has arrived! Besides providing full support for SurrealDB 2.0, this release is packed full of useful new features, community requested quality of life improvements, and bug fixes for reported issues. Let\u2019s explore the highlights of this release and discover what you can expect from Surrealist 3.0.\r\n\r\n## Getting started\r\n\r\n### Existing user of Surrealist\r\n\r\nIf you already have Surrealist installed, you will be prompted to update the next time you start the application. Surrealist will automatically create a configuration backup for you when updating through this channel. Alternatively, you can [create a backup](https://surrealdb.com/docs/surrealist/troubleshooting#resetting-the-config) of your config file manually.\r\n\r\n### New to Surrealist\r\n\r\nThe easiest way to get started with Surrealist is using the web app available at\u00a0[https://surrealist.app/](https://surrealist.app/). While the web app offers a convenient and portable way to interact with SurrealDB, for the complete Surrealist experience we recommend downloading the [Surrealist Desktop](https://github.com/surrealdb/surrealist/releases) app.\r\n\r\n## Highlights\r\n\r\n### Improved namespace and database selection\r\n\r\n<img width=\"779\" alt=\"blog-ns-db\" src=\"https://github.com/user-attachments/assets/165f711c-af2a-4d82-a24e-d5abbb7e824c\">\r\n\r\nPreviously you were required to provide a namespace and database in each connection, and while this worked well for simple use-cases, we believe a more scalable approach is required.\r\n\r\nIn Surrealist 3.0 you will no longer be required to pass namespace and database in the connection editors. Instead, you will be able to select, create, and remove namespaces and databases directly from the toolbar. This means you can now connect to your database without selecting any namespace or database, and switch them on-the-fly without creating a new connection.\r\n\r\n### New GraphQL view\r\n\r\n<img width=\"1544\" alt=\"blog-graphql\" src=\"https://github.com/user-attachments/assets/a6638f3a-1d9d-45f4-ae5f-6cf8455e2a67\">\r\n\r\nAlongside the new experimental GraphQL query functionality included in SurrealDB 2.0, this new release of Surrealist also includes a brand new GraphQL view. This view provides an optimised zero-configuration interface for executing queries against your database. \r\n\r\nIn addition, this new view provides full GraphQL syntax highlighting, live error checking, and full support for query variables. Much like the regular Query view you can even infer your variables directly from your query.\r\n\r\nNote that since GraphQL support is still experimental, this view can only be used when GraphQL functionality is enabled on the remote database.\r\n\r\n### Overhauled Authentication view\r\n\r\n<img width=\"2047\" alt=\"blog-authentication\" src=\"https://github.com/user-attachments/assets/6751f381-9609-4787-9f8a-6155b797a943\">\r\n\r\nSurrealDB 2.0 includes a significant improvement to authentication, hence the Surrealist Authentication view has been updated to reflect these improvements. \r\n\r\nWithin this view you will now be able to manage both system users and access methods, each on a root, namespace, and database level. You can fully configure these through the redesigned editor dialogs, allowing you to effortlessly setup and manage authentication within your database.\r\n\r\n### Light interface theme\r\n\r\n<img width=\"2053\" alt=\"blog-light-theme\" src=\"https://github.com/user-attachments/assets/5d3a7949-72ca-4146-89ed-932b694fd041\">\r\n\r\nAfter being absent for a few months, we can finally say the Light interface theme has made a spectacular comeback! The new Light theme is supported across the entire interface and features a stunning new design. Additionally, when set to \u201cAutomatic\u201d, Surrealist will synchronise its theme to your operating system\u2019s preference. \r\n\r\n### Designer view improvements\r\n\r\n<img width=\"1535\" alt=\"blog-designer\" src=\"https://github.com/user-attachments/assets/124d4f3a-cd7e-4d4c-ad8d-1139c22c93e4\">\r\n\r\nThe Surrealist Designer view remains an excellent choice for designing, building, and managing your database schemas. To facilitate this further the Designer view has been improved with some useful quality of life improvements. This includes a new expandable table list, persistent expanded table designer sections, and a new system warning you of potential schema issues.\r\n\r\n## Other changes\r\n\r\n- Redesigned start screen with a new appearance, useful resources, and latest news\r\n- Query formatting support for the functions view\r\n- The sidebar is now organised more logically\r\n- Maximum size of resizable drawers has been increased\r\n- Customize the history size and log level of the database serving console\r\n- Query view variable panel expansion state is now saved persistently\r\n- Functions editor now auto completes arguments, tables, and other functions\r\n- Updated SurrealQL highlighting to support new SurrealDB 2.0 features\r\n- Highlighting for regular expressions in query editors\r\n- New collapsible table list in the Designer view\r\n- Improved appearance of edge tables in the Designer view\r\n- Designer view will now report on schema configuration warnings\r\n- Added the option to initialise any empty database with a demo dataset\r\n- Decreased the minimum window size for Surrealist Desktop\r\n- Initial work on making the interface mobile compatible\r\n- Improved listing of fields and indexes in the Table Designer\r\n- Remember expanded Table Designer panels persistently\r\n- Improved search behaviour in the tables panel\r\n- Slightly changed the appearance of drawers\r\n\r\n## Bug fixes\r\n\r\n- Performance improvements for large schemas\r\n- Performance improvements for Designer view record link visualisation\r\n- Performance improvements when navigating the explorer view\r\n- Fixed designer field and table permissions initialising incorrectly\r\n- Fixed explorer object tooltip indenting\r\n- Fixed incorrect editor highlighting keywords\r\n- Fixed Designer view performance issues when visualising record links\r\n- Fixed backspace deleting nodes in the Designer view\r\n- Fixed designer permission fields incorrectly including WHERE keyword\r\n- Fixed indenting in data table tooltips\r\n- Fixed unintended scrollbars rendering on Windows\r\n- Fixed null geo coordinates crashing Surrealist\r\n- Fixed the geography explorer not always updating\r\n- Fixed live messages displaying incorrect timestamps\r\n- Fixed record ids within live message previews not being clickable\r\n- Fixed the designer view not changing incoming/outgoing tables on relation tables\r\n- Fixed incorrect Surrealist Mini embed URL generation\r\n\r\nCompatible with SurrealDB 2.0.0 with limited support for 1.4.2+",
     "reactions": {
       "url": "https://api.github.com/repos/surrealdb/surrealist/releases/175487391/reactions",
-      "total_count": 9,
+      "total_count": 10,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
@@ -1454,7 +1478,7 @@
       "confused": 0,
       "heart": 5,
       "rocket": 1,
-      "eyes": 0
+      "eyes": 1
     }
   },
   {
@@ -2611,7 +2635,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 93344960,
-        "download_count": 252,
+        "download_count": 253,
         "created_at": "2024-08-06T15:29:50Z",
         "updated_at": "2024-08-06T15:29:53Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.1.6/Surrealist_2.1.6_amd64.AppImage"
@@ -2679,7 +2703,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14891782,
-        "download_count": 578,
+        "download_count": 580,
         "created_at": "2024-08-06T15:29:49Z",
         "updated_at": "2024-08-06T15:29:49Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.1.6/Surrealist_2.1.6_amd64.deb"
@@ -4563,7 +4587,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14809050,
-        "download_count": 469,
+        "download_count": 470,
         "created_at": "2024-06-13T17:00:51Z",
         "updated_at": "2024-06-13T17:00:52Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.1.2/Surrealist_2.1.2_amd64.deb"
@@ -6845,7 +6869,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 20643592,
-        "download_count": 290,
+        "download_count": 291,
         "created_at": "2024-05-02T22:36:44Z",
         "updated_at": "2024-05-02T22:36:45Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/surrealist_2.0.5_amd64.deb"
