@@ -100,7 +100,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16552312,
-        "download_count": 3,
+        "download_count": 8,
         "created_at": "2024-11-26T17:34:16Z",
         "updated_at": "2024-11-26T17:34:17Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist-3.1.1-1.x86_64.rpm"
@@ -135,7 +135,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16622152,
-        "download_count": 16,
+        "download_count": 28,
         "created_at": "2024-11-26T17:33:14Z",
         "updated_at": "2024-11-26T17:33:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_3.1.1_aarch64.dmg"
@@ -170,7 +170,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 97772736,
-        "download_count": 24,
+        "download_count": 42,
         "created_at": "2024-11-26T17:34:18Z",
         "updated_at": "2024-11-26T17:34:20Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_3.1.1_amd64.AppImage"
@@ -240,7 +240,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16553560,
-        "download_count": 53,
+        "download_count": 88,
         "created_at": "2024-11-26T17:34:15Z",
         "updated_at": "2024-11-26T17:34:16Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_3.1.1_amd64.deb"
@@ -275,7 +275,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 10917234,
-        "download_count": 93,
+        "download_count": 118,
         "created_at": "2024-11-26T17:33:58Z",
         "updated_at": "2024-11-26T17:33:59Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_3.1.1_x64-setup.exe"
@@ -345,7 +345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17062541,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2024-11-26T17:32:54Z",
         "updated_at": "2024-11-26T17:32:55Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_3.1.1_x64.dmg"
@@ -380,7 +380,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14053556,
-        "download_count": 62,
+        "download_count": 82,
         "created_at": "2024-11-26T17:33:15Z",
         "updated_at": "2024-11-26T17:33:16Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_aarch64.app.tar.gz"
@@ -450,7 +450,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14502339,
-        "download_count": 14,
+        "download_count": 20,
         "created_at": "2024-11-26T17:32:55Z",
         "updated_at": "2024-11-26T17:32:56Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.1/Surrealist_x64.app.tar.gz"
@@ -496,14 +496,14 @@
     "body": "This release fixes reported issues\r\n\r\n- Fixed the query view not rendering in horizontal layout mode\r\n\r\nCompatible with SurrealDB 2.x with limited support for 1.4.2+\r\n\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/surrealdb/surrealist/releases/187594484/reactions",
-      "total_count": 2,
+      "total_count": 3,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
       "heart": 0,
-      "rocket": 2,
+      "rocket": 3,
       "eyes": 0
     }
   },
@@ -748,7 +748,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16553148,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2024-11-26T16:25:55Z",
         "updated_at": "2024-11-26T16:25:55Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.0/Surrealist_3.1.0_amd64.deb"
@@ -1004,14 +1004,14 @@
     "body": "Introducing Surrealist 3.1, the latest feature-packed the latest feature-packed update for our graphical management interface. Since the previous 3.0 release we have been hard at work improving all aspects of the app in order to further streamline the user experience and make it as effortless as ever to interact with your SurrealDB database.\r\n\r\n# Highlights\r\n\r\n## Open file system query files\r\n<img width=\"1035\" alt=\"file-system-queries\" src=\"https://github.com/user-attachments/assets/1fec0f66-eef7-480b-8c93-880ba670e595\">\r\n\r\nWhile it was previously possible to open queries stored on your file system, it was not trivial to save modifications back to disk. In this release we have completely overhauled this behaviour to allow for loading, editing, and saving query files much like the text editors you are familiar with.\r\n\r\nQueries opened this way are identified by a file icon, and display their file system path after their name. Changes you make to the query are automatically saved back to disk, making them as seamless to edit as any other query. In addition to opening files from your file explorer, we introduced a new `Open query file` command (cmd + O) to further ease the process of opening query files. Last but not least, the context menu for file system queries contains the option to reveal a file in your file explorer, making it easy to locate opened queries on your file system.\r\n\r\nFile system queries provide an exciting range of new possibilities when it comes to storing, organising, and sharing queries, and we can\u2019t wait hear how you use them to enhance your workflow.\r\n\r\n## Customisable keybindings\r\n<img width=\"1493\" alt=\"custom-keybinding\" src=\"https://github.com/user-attachments/assets/3eb9fc35-80c0-49bc-871b-784a80016099\">\r\n\r\nOne of the most requested features to date has been the ability to customise keybindings, and I\u2019m delighted to announce this functionality is now available in Surrealist 3.1.\r\n\r\nLocated in the settings screen, the new Keybindings page allows you to register keybindings to commands, includes changing and unregistering any default keybindings. You can even register keybindings to dynamic commands, such as for opening specific connections.\r\n\r\nAt the moment keybindings can only be attached to commands, however in the future this will also allow customising editor shortcuts.\r\n\r\n## Collapsible panels\r\n<img width=\"726\" alt=\"collapsed-panels\" src=\"https://github.com/user-attachments/assets/d90112fb-01aa-46e1-a8b9-8e318cd6f799\">\r\n\r\nIn order to further streamline the user interface, we added the ability to collapse the query list and table list in the Query and Explorer views, similar to what was already possible in the Designer view. This allows you to hide distractions and reserve more space for the content that matters the most.\r\n\r\n## Integrated documentation searching\r\n<img width=\"1159\" alt=\"documentation-search\" src=\"https://github.com/user-attachments/assets/22da33ed-f5ac-4ab7-a588-31ebfd6e88b9\">\r\n\r\nUsing the new `Search SurrealDB Documentation` command (cmd + J) you can now search through the SurrealDB documentation without leaving Surrealist. This new convenient way to interact with the docs allows you to find answers faster and effortlessly expand your SurrealDB knowledge. \r\n\r\n## Redesigned settings screen\r\n<img width=\"1493\" alt=\"redesigned-settings\" src=\"https://github.com/user-attachments/assets/4df3b3df-67c5-4582-b66d-c60018f8d996\">\r\n\r\nThe settings screen has received a much needed upgrade, reorganising existing pages and introducing new ones. The most noticeable change is that the \u201cBehavior\u201d and \u201cAppearance\u201d pages have been merged into a single searchable preferences page. In addition to the aforementioned \u201cKeybindings\u201d page, we also introduced a new \u201cBackup & Restore\u201d page where you can create backups of your Surrealist configuration file, or import previously created backups. Finally, we introduced a new \u201cAbout\u201d page containing version and debug information.\r\n\r\n## Designer view improvements\r\n![improved-designer-rendering](https://github.com/user-attachments/assets/82333d85-4e96-401d-98ec-45a6f8af8320)\r\n\r\nIn Surrealist 3.1 we also gave some love to the powerful Designer view. This release significantly improves the visualisation capabilities of the table graph, including new algorithms for laying out tables, improved relation rendering, performance enhancements for large schemas, and an overhauled settings dropdown.\r\n\r\nAll table graph settings can now also be controlled from the preferences page, and overridden individually per connection. This allows you to tailor the table graph to each individual database schema.\r\n\r\nAdditionally, the editing of fields, indexes, and events has been improved within the table designer drawer, making it easier than ever to compose your schemas visually.\r\n\r\n## Inline preference editing\r\n<img width=\"1183\" alt=\"inline-preference-editing\" src=\"https://github.com/user-attachments/assets/b40439ad-8246-4a6e-a948-44dad4d5810f\">\r\n\r\nFor our final highlight of this release, we must mention the new inline preference editing capabilities. You can now use the search dialog to find and modify preferences without opening the settings dialog. This makes it easier than ever to customize your Surrealist experience.\r\n\r\nWe made sure to make this experience fully accessible and keyboard navigable, providing a frictionless way to update your preferences while you are writing your queries.\r\n\r\n# Other changes\r\n\r\n- Added configuration backups & restoring\r\n    - Allows saving your Surrealist configuration and restoring at a later date\r\n    - Provides the option to strip sensitive information\r\n    - Allows exporting only specific connections\r\n- Improved and optimised the query history\r\n    - Large queries will no longer be saved to the query history\r\n    - When a query is too large to be saved, an indicator will show up notifying you of this\r\n    - Entries within the query history will be truncated when too long\r\n    - It is now easier to delete and run query history entries\r\n- Improved the result formatting setting\r\n    - Configurable per connection directly from the query result panel\r\n    - Allows representing query results as SurrealQL or JSON\r\n- Improved config serialisation in the web app\r\n    - The config will now be stored in IndexedDB\r\n    - This should result in improved performance\r\n- Improved namespace and database creation\r\n    - The namespace and database selection dropdowns will automatically open the creator dialog when no existing entries are found\r\n- Added a setting to toggle line numbers in different editors\r\n    - Currently available for the query editor, record inspector, and functions editor\r\n    - Also configurable for Surrealist Mini\r\n- Accessibility improvements\r\n    - Made various dialogs easier to use when navigating with a keyboard\r\n- Improved query result rendering\r\n    - Queries are now selected from a dropdown\r\n    - Table rendering now supports full pagination\r\n- Improved Designer table graph settings\r\n    - Globally configurable default values in the settings menu\r\n    - Added the option to use a more spaced out layout algorithm\r\n    - Added per-connection line style customisation\r\n    - Enabled record link rendering by default\r\n- Added new default keybindings\r\n    - `Ctrl/Cmd + T` to open a new query tab (Desktop only)\r\n    - `Ctrl/cmd + W` to close the current query tab (Desktop only)\r\n    - `Ctrl/cmd + N` to create a new table (Desktop only)\r\n- Added a new editor shortcut to select the entire query your cursor is inside of\r\n    - Activated using `Ctrl/cmd + E`\r\n- Added a new table context menu option to display the full table definition\r\n- The record inspector will now display errors encountered while saving\r\n- Updated SurrealQL highlighting to support new SurrealDB 2.1 features\r\n- Added a Sync schema button to the connection dropdown\r\n- Added a \u201cFocus table\u201d context menu option to focus tables in the table graph from the table list\r\n- Added a \u201cRename\u201d option to query tab context menus\r\n- Added the option to view the status of nodes in the cluster\r\n- Added back database export customisation options\r\n- Improved table designer field, event, and index editing\r\n- Added a confirmation before deleting a record from the Explorer\r\n- Added a new setting to disable quick query closing\r\n- Added editor warnings when trying to use unsupported SurrealQL features\r\n- Improved the editing of connections in the connections list\r\n- Surrealist is now available as a Docker image\r\n\r\n# Bug fixes\r\n\r\n- Fixed explorer pagination not adjusting when changing max results per page\r\n- Fixed the designer help button not working\r\n- Fixed situations where Surrealist could crash with \u201cSession unavailable\u201d\r\n- Fixed query tabs not being editable on Firefox\r\n- Fixed query tabs allowing empty names\r\n- Fixed Surrealist rendering blank on Linux systems using Nvidia graphics\r\n- Fixed record access sign up modal inputs not working correctly\r\n- Fixed connection templates not saving\r\n\r\nCompatible with SurrealDB 2.x with limited support for 1.4.2+",
     "reactions": {
       "url": "https://api.github.com/repos/surrealdb/surrealist/releases/187580380/reactions",
-      "total_count": 2,
+      "total_count": 3,
       "+1": 0,
       "-1": 0,
       "laugh": 0,
       "hooray": 2,
       "confused": 0,
       "heart": 0,
-      "rocket": 0,
+      "rocket": 1,
       "eyes": 0
     }
   },
@@ -1186,7 +1186,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 94737600,
-        "download_count": 291,
+        "download_count": 292,
         "created_at": "2024-10-15T10:01:37Z",
         "updated_at": "2024-10-15T10:01:39Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.8/Surrealist_3.0.8_amd64.AppImage"
@@ -1256,7 +1256,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16275704,
-        "download_count": 720,
+        "download_count": 723,
         "created_at": "2024-10-15T10:01:36Z",
         "updated_at": "2024-10-15T10:01:36Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.8/Surrealist_3.0.8_amd64.deb"
@@ -2698,7 +2698,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 94737600,
-        "download_count": 53,
+        "download_count": 54,
         "created_at": "2024-10-04T13:13:37Z",
         "updated_at": "2024-10-04T13:13:38Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.5/Surrealist_3.0.5_amd64.AppImage"
@@ -5203,7 +5203,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16433146,
-        "download_count": 62,
+        "download_count": 63,
         "created_at": "2024-09-17T15:24:07Z",
         "updated_at": "2024-09-17T15:24:08Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.0/Surrealist_3.0.0_aarch64.dmg"
@@ -10977,7 +10977,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 20511098,
-        "download_count": 295,
+        "download_count": 296,
         "created_at": "2024-05-02T22:33:24Z",
         "updated_at": "2024-05-02T22:33:25Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_2.0.5_aarch64.dmg"
@@ -11012,7 +11012,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 89863360,
-        "download_count": 132,
+        "download_count": 133,
         "created_at": "2024-05-02T22:36:45Z",
         "updated_at": "2024-05-02T22:36:47Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/surrealist_2.0.5_amd64.AppImage"
@@ -11047,7 +11047,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 88997140,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2024-05-02T22:36:47Z",
         "updated_at": "2024-05-02T22:36:49Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/surrealist_2.0.5_amd64.AppImage.tar.gz"
@@ -11117,7 +11117,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 20643592,
-        "download_count": 295,
+        "download_count": 296,
         "created_at": "2024-05-02T22:36:44Z",
         "updated_at": "2024-05-02T22:36:45Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/surrealist_2.0.5_amd64.deb"
@@ -11152,7 +11152,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 20689931,
-        "download_count": 98,
+        "download_count": 99,
         "created_at": "2024-05-02T22:33:09Z",
         "updated_at": "2024-05-02T22:33:10Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_2.0.5_x64.dmg"
@@ -11222,7 +11222,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18362526,
-        "download_count": 243,
+        "download_count": 244,
         "created_at": "2024-05-02T22:37:15Z",
         "updated_at": "2024-05-02T22:37:16Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_2.0.5_x64_en-US.msi.zip"
@@ -11292,7 +11292,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19323107,
-        "download_count": 141,
+        "download_count": 142,
         "created_at": "2024-05-02T22:33:26Z",
         "updated_at": "2024-05-02T22:33:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_aarch64.app.tar.gz"
@@ -11327,7 +11327,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 408,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2024-05-02T22:33:27Z",
         "updated_at": "2024-05-02T22:33:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_aarch64.app.tar.gz.sig"
@@ -11362,7 +11362,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 19522254,
-        "download_count": 59,
+        "download_count": 60,
         "created_at": "2024-05-02T22:33:11Z",
         "updated_at": "2024-05-02T22:33:12Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_x64.app.tar.gz"
@@ -14831,7 +14831,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11456512,
-        "download_count": 864,
+        "download_count": 866,
         "created_at": "2024-03-12T17:35:33Z",
         "updated_at": "2024-03-12T17:35:33Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.6/surrealist-v1.11.6-windows.msi"
@@ -15024,7 +15024,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11395072,
-        "download_count": 602,
+        "download_count": 603,
         "created_at": "2024-02-24T10:22:45Z",
         "updated_at": "2024-02-24T10:22:46Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.5/surrealist-v1.11.5-windows.msi"
@@ -18767,7 +18767,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7940453,
-        "download_count": 72,
+        "download_count": 73,
         "created_at": "2023-06-12T13:52:49Z",
         "updated_at": "2023-06-12T13:52:50Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.2/surrealist-v1.7.2-darwin.dmg"
@@ -18802,7 +18802,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 79500480,
-        "download_count": 34,
+        "download_count": 35,
         "created_at": "2023-06-12T13:52:50Z",
         "updated_at": "2023-06-12T13:52:53Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.2/surrealist-v1.7.2-linux.AppImage"
@@ -18837,7 +18837,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 9201884,
-        "download_count": 59,
+        "download_count": 60,
         "created_at": "2023-06-12T13:52:54Z",
         "updated_at": "2023-06-12T13:52:55Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.2/surrealist-v1.7.2-linux.deb"
@@ -18872,7 +18872,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7049216,
-        "download_count": 109,
+        "download_count": 110,
         "created_at": "2023-06-12T13:52:55Z",
         "updated_at": "2023-06-12T13:52:56Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.2/surrealist-v1.7.2-windows.msi"
@@ -19258,7 +19258,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6905856,
-        "download_count": 635,
+        "download_count": 638,
         "created_at": "2023-05-11T07:18:36Z",
         "updated_at": "2023-05-11T07:18:37Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.0/surrealist-v1.7.0-windows.msi"
@@ -19632,7 +19632,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6877184,
-        "download_count": 641,
+        "download_count": 643,
         "created_at": "2023-03-30T13:50:14Z",
         "updated_at": "2023-03-30T13:50:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi"
