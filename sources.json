@@ -135,7 +135,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17095292,
-        "download_count": 137,
+        "download_count": 140,
         "created_at": "2024-12-24T19:17:39Z",
         "updated_at": "2024-12-24T19:17:40Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_aarch64.dmg"
@@ -170,7 +170,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 98313408,
-        "download_count": 115,
+        "download_count": 119,
         "created_at": "2024-12-24T19:21:38Z",
         "updated_at": "2024-12-24T19:21:40Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_amd64.AppImage"
@@ -240,7 +240,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17000284,
-        "download_count": 364,
+        "download_count": 367,
         "created_at": "2024-12-24T19:21:37Z",
         "updated_at": "2024-12-24T19:21:37Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_amd64.deb"
@@ -275,7 +275,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 11377740,
-        "download_count": 437,
+        "download_count": 447,
         "created_at": "2024-12-24T19:23:27Z",
         "updated_at": "2024-12-24T19:23:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_x64-setup.exe"
@@ -345,7 +345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17531168,
-        "download_count": 49,
+        "download_count": 51,
         "created_at": "2024-12-24T19:17:52Z",
         "updated_at": "2024-12-24T19:17:53Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_x64.dmg"
@@ -380,7 +380,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14524356,
-        "download_count": 220,
+        "download_count": 224,
         "created_at": "2024-12-24T19:17:41Z",
         "updated_at": "2024-12-24T19:17:41Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_aarch64.app.tar.gz"
@@ -6760,7 +6760,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16275096,
-        "download_count": 277,
+        "download_count": 278,
         "created_at": "2024-10-10T13:44:07Z",
         "updated_at": "2024-10-10T13:44:08Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.7/Surrealist_3.0.7_amd64.deb"
@@ -10929,7 +10929,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 16751160,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2024-09-09T18:33:34Z",
         "updated_at": "2024-09-09T18:33:35Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.0.0-beta.2/Surrealist_3.0.0-beta.2_x64.dmg"
@@ -16195,7 +16195,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 18362368,
-        "download_count": 468,
+        "download_count": 469,
         "created_at": "2024-05-02T22:37:14Z",
         "updated_at": "2024-05-02T22:37:14Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v2.0.5/Surrealist_2.0.5_x64_en-US.msi"
@@ -19839,7 +19839,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11456512,
-        "download_count": 955,
+        "download_count": 956,
         "created_at": "2024-03-12T17:35:33Z",
         "updated_at": "2024-03-12T17:35:33Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.6/surrealist-v1.11.6-windows.msi"
@@ -20032,7 +20032,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11395072,
-        "download_count": 700,
+        "download_count": 701,
         "created_at": "2024-02-24T10:22:45Z",
         "updated_at": "2024-02-24T10:22:46Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.5/surrealist-v1.11.5-windows.msi"
@@ -20699,7 +20699,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 12294076,
-        "download_count": 89,
+        "download_count": 90,
         "created_at": "2023-12-14T14:07:45Z",
         "updated_at": "2023-12-14T14:07:46Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.1-nightly.1/surrealist-v1.11.1-nightly.1-darwin.dmg"
@@ -21120,7 +21120,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 81396928,
-        "download_count": 149,
+        "download_count": 150,
         "created_at": "2023-10-26T23:01:23Z",
         "updated_at": "2023-10-26T23:01:25Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.0/surrealist-v1.11.0-linux.AppImage"
@@ -21155,7 +21155,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 12943500,
-        "download_count": 605,
+        "download_count": 606,
         "created_at": "2023-10-26T23:01:25Z",
         "updated_at": "2023-10-26T23:01:26Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.0/surrealist-v1.11.0-linux.deb"
@@ -21278,7 +21278,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 10474573,
-        "download_count": 67,
+        "download_count": 68,
         "created_at": "2023-10-24T08:00:51Z",
         "updated_at": "2023-10-24T08:00:52Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.10.3/surrealist-v1.10.3-darwin.dmg"
@@ -21383,7 +21383,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 9383936,
-        "download_count": 94,
+        "download_count": 95,
         "created_at": "2023-10-24T08:00:59Z",
         "updated_at": "2023-10-24T08:01:00Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.10.3/surrealist-v1.10.3-windows.msi"
@@ -21506,7 +21506,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 85144768,
-        "download_count": 79,
+        "download_count": 80,
         "created_at": "2023-09-29T16:30:13Z",
         "updated_at": "2023-09-29T16:30:16Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.10.1/surrealist-v1.10.1-linux.AppImage"
@@ -21857,7 +21857,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 9866592,
-        "download_count": 92,
+        "download_count": 93,
         "created_at": "2023-09-20T07:08:26Z",
         "updated_at": "2023-09-20T07:08:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.9.2/surrealist-v1.9.2-darwin.dmg"
@@ -22471,7 +22471,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 84972736,
-        "download_count": 63,
+        "download_count": 64,
         "created_at": "2023-08-14T15:09:52Z",
         "updated_at": "2023-08-14T15:09:56Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.8.0-nightly.2/surrealist-v1.8.0-nightly-linux.AppImage"
@@ -23459,7 +23459,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 9203558,
-        "download_count": 121,
+        "download_count": 122,
         "created_at": "2023-07-08T20:23:23Z",
         "updated_at": "2023-07-08T20:23:23Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.4/surrealist-v1.7.4-linux.deb"
@@ -23775,7 +23775,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7940453,
-        "download_count": 74,
+        "download_count": 75,
         "created_at": "2023-06-12T13:52:49Z",
         "updated_at": "2023-06-12T13:52:50Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.2/surrealist-v1.7.2-darwin.dmg"
@@ -24266,7 +24266,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6905856,
-        "download_count": 732,
+        "download_count": 733,
         "created_at": "2023-05-11T07:18:36Z",
         "updated_at": "2023-05-11T07:18:37Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.0/surrealist-v1.7.0-windows.msi"
@@ -24640,7 +24640,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6877184,
-        "download_count": 735,
+        "download_count": 736,
         "created_at": "2023-03-30T13:50:14Z",
         "updated_at": "2023-03-30T13:50:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi"
@@ -24956,7 +24956,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 79115456,
-        "download_count": 31,
+        "download_count": 32,
         "created_at": "2023-03-03T09:56:21Z",
         "updated_at": "2023-03-03T09:56:25Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.1/surrealist-v1.6.1-linux.AppImage"
@@ -25342,7 +25342,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 4030965,
-        "download_count": 90,
+        "download_count": 91,
         "created_at": "2023-02-06T22:54:37Z",
         "updated_at": "2023-02-06T22:54:38Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.5.2/surrealist-v1.5.2-darwin-arm64.tgz"
