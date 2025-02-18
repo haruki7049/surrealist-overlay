@@ -100,7 +100,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17301389,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2025-02-12T15:38:16Z",
         "updated_at": "2025-02-12T15:38:18Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist-3.2.2-1.x86_64.rpm"
@@ -135,7 +135,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17447765,
-        "download_count": 35,
+        "download_count": 41,
         "created_at": "2025-02-12T15:36:29Z",
         "updated_at": "2025-02-12T15:36:32Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_3.2.2_aarch64.dmg"
@@ -170,7 +170,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 98616512,
-        "download_count": 52,
+        "download_count": 54,
         "created_at": "2025-02-12T15:38:18Z",
         "updated_at": "2025-02-12T15:38:22Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_3.2.2_amd64.AppImage"
@@ -240,7 +240,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 17303312,
-        "download_count": 172,
+        "download_count": 190,
         "created_at": "2025-02-12T15:38:15Z",
         "updated_at": "2025-02-12T15:38:16Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_3.2.2_amd64.deb"
@@ -275,7 +275,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 11597952,
-        "download_count": 202,
+        "download_count": 220,
         "created_at": "2025-02-12T15:38:10Z",
         "updated_at": "2025-02-12T15:38:12Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_3.2.2_x64-setup.exe"
@@ -380,7 +380,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14867077,
-        "download_count": 100,
+        "download_count": 109,
         "created_at": "2025-02-12T15:36:32Z",
         "updated_at": "2025-02-12T15:36:33Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_aarch64.app.tar.gz"
@@ -450,7 +450,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 15366789,
-        "download_count": 20,
+        "download_count": 23,
         "created_at": "2025-02-12T15:37:33Z",
         "updated_at": "2025-02-12T15:37:34Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.2/Surrealist_x64.app.tar.gz"
@@ -1501,11 +1501,11 @@
     "body": "We\u2019re excited to announce the release of Surrealist 3.2\u2014our first major update of the year. This version introduces the highly requested graph visualisation functionality, a fresh new interface design, extended Surreal Cloud features, and fixes for reported issues. Let\u2019s dive into the highlights of this release.\r\n\r\n## Highlights\r\n\r\n### Graph visualisation\r\n\r\n<img width=\"2050\" alt=\"graph\" src=\"https://github.com/user-attachments/assets/287dbe0c-9206-4366-9c29-7f4d3cffc6fc\" />\r\n\r\nThis is the largest addition in Surrealist 3.2 and the star of this release. Using the new Graph result mode in the Query View, you can plot the result of any query into a visual graph, complete with force-based physics, full control over the appearance, and the ability to expand the graph in place.\r\n\r\nThe new Graph result mode automatically analyzes query results for record IDs and maps relationships between them. This gives you complete flexibility in writing queries, allowing you to filter and limit records as needed. There are no strict query requirements\u2014just ensure the response includes all record IDs you want to visualize. Once the graph is rendered, you can customize its appearance using the sidebar and access additional actions by right-clicking nodes.\r\n\r\nStay on the lookout as we will be dropping an additional blog post later this week diving into the details of the new Graph result mode, and how to use it to your benefit.\r\n\r\n### Interface redesign\r\n\r\n![redesign](https://github.com/user-attachments/assets/f4f4fb31-ac71-4aba-89fa-40bbf2158cfb)\r\n\r\nThe Surrealist interface has received a new look! This new appearance more closely reflects the SurrealDB brand, while simultaneously improving contrast throughout the interface.\r\n\r\nAdditionally, various improvements have been made to improve interface consistency, such as the addition of an introduction box in the Designer view. \r\n\r\n### Surreal Cloud panel improvements\r\n\r\n<img width=\"1424\" alt=\"cloud\" src=\"https://github.com/user-attachments/assets/ded66408-c7ee-4413-ac0b-8dad23c0c154\" />\r\n\r\nThis release introduces some highly requested features to the Surreal Cloud panel, including the ability to view active discount codes, the current monthly usage charges, and referral progression. Additionally, instances will now clearly indicate when they are using resources. \r\n\r\nWith these changes we hope to provide a clearer view of your resource usage and offer greater transparency on billing.\r\n\r\n## Other changes\r\n\r\n- Added a button to copy the table name in the table designer\r\n- Added an additional deletion confirmation when deleting Cloud instances\r\n\r\n## Bug fixes\r\n\r\n- Fixed table creator validation issues\r\n- Fixed missing Explorer view table panel reveal button\r\n- Fixed explorer not resetting to page 1 when changing tables\r\n- Fixed the namespace and database selector incorrectly rendering\r\n\r\nCompatible with SurrealDB 2.x with limited support for 1.4.2+\r\n\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/surrealdb/surrealist/releases/197545428/reactions",
-      "total_count": 15,
+      "total_count": 16,
       "+1": 2,
       "-1": 0,
       "laugh": 1,
-      "hooray": 2,
+      "hooray": 3,
       "confused": 0,
       "heart": 1,
       "rocket": 9,
@@ -1683,7 +1683,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 98313408,
-        "download_count": 209,
+        "download_count": 210,
         "created_at": "2024-12-24T19:21:38Z",
         "updated_at": "2024-12-24T19:21:40Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.9/Surrealist_3.1.9_amd64.AppImage"
@@ -3475,7 +3475,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 14449567,
-        "download_count": 23,
+        "download_count": 24,
         "created_at": "2024-12-06T15:47:43Z",
         "updated_at": "2024-12-06T15:47:44Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.1.6/Surrealist_x64.app.tar.gz"
@@ -21352,7 +21352,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11456512,
-        "download_count": 1025,
+        "download_count": 1026,
         "created_at": "2024-03-12T17:35:33Z",
         "updated_at": "2024-03-12T17:35:33Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.6/surrealist-v1.11.6-windows.msi"
@@ -21545,7 +21545,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 11395072,
-        "download_count": 763,
+        "download_count": 764,
         "created_at": "2024-02-24T10:22:45Z",
         "updated_at": "2024-02-24T10:22:46Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.11.5/surrealist-v1.11.5-windows.msi"
@@ -25779,7 +25779,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6905856,
-        "download_count": 794,
+        "download_count": 795,
         "created_at": "2023-05-11T07:18:36Z",
         "updated_at": "2023-05-11T07:18:37Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.7.0/surrealist-v1.7.0-windows.msi"
@@ -26153,7 +26153,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 6877184,
-        "download_count": 798,
+        "download_count": 799,
         "created_at": "2023-03-30T13:50:14Z",
         "updated_at": "2023-03-30T13:50:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi"
