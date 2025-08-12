@@ -34,6 +34,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-08-06T15:43:02Z",
+    "updated_at": "2025-08-06T16:01:07Z",
     "published_at": "2025-08-06T16:01:07Z",
     "assets": [
       {
@@ -103,7 +104,7 @@
         "state": "uploaded",
         "size": 22368510,
         "digest": "sha256:e6551948c88feaeffd3b2c78fe1ef066989de8e5b08f356fcc5faf972f378f4f",
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2025-08-06T15:55:17Z",
         "updated_at": "2025-08-06T15:55:18Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist-3.5.2-1.x86_64.rpm"
@@ -139,7 +140,7 @@
         "state": "uploaded",
         "size": 22813489,
         "digest": "sha256:925f15ab2db4fc47104697fb44a3d9ccd39682a97b1ebae60df9fec152bd3fce",
-        "download_count": 41,
+        "download_count": 45,
         "created_at": "2025-08-06T15:52:18Z",
         "updated_at": "2025-08-06T15:52:20Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_3.5.2_aarch64.dmg"
@@ -175,7 +176,7 @@
         "state": "uploaded",
         "size": 107021504,
         "digest": "sha256:abe6485e4b0536a53937d6eacf0439f1582a0179db9e92f9ff7cf467a9328c4f",
-        "download_count": 39,
+        "download_count": 47,
         "created_at": "2025-08-06T15:55:18Z",
         "updated_at": "2025-08-06T15:55:21Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_3.5.2_amd64.AppImage"
@@ -247,7 +248,7 @@
         "state": "uploaded",
         "size": 22362182,
         "digest": "sha256:f7220fb1dc20d506d1cb641a3b1ebc5295883629be2cb52ee2e979a2330df2a7",
-        "download_count": 187,
+        "download_count": 199,
         "created_at": "2025-08-06T15:55:16Z",
         "updated_at": "2025-08-06T15:55:17Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_3.5.2_amd64.deb"
@@ -283,7 +284,7 @@
         "state": "uploaded",
         "size": 16905992,
         "digest": "sha256:6ab2dbfe8ec2ae12c245a1cd4cf5de7f8a7952023e0c99dbf66fb2dd029b794d",
-        "download_count": 178,
+        "download_count": 195,
         "created_at": "2025-08-06T15:55:02Z",
         "updated_at": "2025-08-06T15:55:03Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_3.5.2_x64-setup.exe"
@@ -355,7 +356,7 @@
         "state": "uploaded",
         "size": 23250361,
         "digest": "sha256:c3957d39e12e1567377088915f7bbdb496dc66b1271904e16b65cca361004137",
-        "download_count": 10,
+        "download_count": 11,
         "created_at": "2025-08-06T15:51:12Z",
         "updated_at": "2025-08-06T15:51:14Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_3.5.2_x64.dmg"
@@ -391,7 +392,7 @@
         "state": "uploaded",
         "size": 20245840,
         "digest": "sha256:20944b88a5cd668c54c63dde8e8cfb83813921091ac6dc6021505c8fa89bd454",
-        "download_count": 100,
+        "download_count": 110,
         "created_at": "2025-08-06T15:52:20Z",
         "updated_at": "2025-08-06T15:52:22Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.2/Surrealist_aarch64.app.tar.gz"
@@ -544,6 +545,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-08-05T11:41:24Z",
+    "updated_at": "2025-08-05T12:09:07Z",
     "published_at": "2025-08-05T12:09:07Z",
     "assets": [
       {
@@ -757,7 +759,7 @@
         "state": "uploaded",
         "size": 22369960,
         "digest": "sha256:3f398d2a965487f763bd69bd136cd7e4e931e70726517894b00e55136c5bb878",
-        "download_count": 113,
+        "download_count": 115,
         "created_at": "2025-08-05T12:05:34Z",
         "updated_at": "2025-08-05T12:05:35Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.1/Surrealist_3.5.1_amd64.deb"
@@ -793,7 +795,7 @@
         "state": "uploaded",
         "size": 16903013,
         "digest": "sha256:524e37de8cd633aaef1e04981287dce7b8583933b6b89f0005362dde29bdc4e7",
-        "download_count": 80,
+        "download_count": 81,
         "created_at": "2025-08-05T12:07:52Z",
         "updated_at": "2025-08-05T12:07:52Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.1/Surrealist_3.5.1_x64-setup.exe"
@@ -865,7 +867,7 @@
         "state": "uploaded",
         "size": 23250173,
         "digest": "sha256:0af88c86cfa03860c26b6a54f6c0bd689f8891560ae3cd2b5d7155b2a20ea03b",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2025-08-05T12:03:28Z",
         "updated_at": "2025-08-05T12:03:29Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.1/Surrealist_3.5.1_x64.dmg"
@@ -1054,6 +1056,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-07-24T12:41:27Z",
+    "updated_at": "2025-07-24T14:08:51Z",
     "published_at": "2025-07-24T13:00:51Z",
     "assets": [
       {
@@ -1267,7 +1270,7 @@
         "state": "uploaded",
         "size": 22340510,
         "digest": "sha256:41fea61f1d83f651e143834c46d9059ab65337cd10478f19d3edc5e4ded152c6",
-        "download_count": 396,
+        "download_count": 398,
         "created_at": "2025-07-24T12:48:06Z",
         "updated_at": "2025-07-24T12:48:07Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.5.0/Surrealist_3.5.0_amd64.deb"
@@ -1576,6 +1579,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-07-08T14:20:23Z",
+    "updated_at": "2025-07-09T08:42:15Z",
     "published_at": "2025-07-09T08:42:15Z",
     "assets": [
       {
@@ -1789,7 +1793,7 @@
         "state": "uploaded",
         "size": 22304064,
         "digest": "sha256:57c726130149400f99fa4044e244d429b9a8e727fa30bdb0b25865844108f9f8",
-        "download_count": 506,
+        "download_count": 508,
         "created_at": "2025-07-08T16:13:31Z",
         "updated_at": "2025-07-08T16:13:32Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.5/Surrealist_3.4.5_amd64.deb"
@@ -2086,6 +2090,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-07-07T10:42:12Z",
+    "updated_at": "2025-07-07T12:39:16Z",
     "published_at": "2025-07-07T12:39:16Z",
     "assets": [
       {
@@ -2299,7 +2304,7 @@
         "state": "uploaded",
         "size": 22295906,
         "digest": "sha256:d5a380c3509feed24e8ca913e50868234f51e033f16f3eb54b3c80049e1d6513",
-        "download_count": 349,
+        "download_count": 351,
         "created_at": "2025-07-07T10:59:19Z",
         "updated_at": "2025-07-07T10:59:20Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.4/Surrealist_3.4.4_amd64.deb"
@@ -2596,6 +2601,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-07-02T15:08:40Z",
+    "updated_at": "2025-07-02T15:31:00Z",
     "published_at": "2025-07-02T15:31:00Z",
     "assets": [
       {
@@ -2809,7 +2815,7 @@
         "state": "uploaded",
         "size": 22292160,
         "digest": "sha256:4d754d938d125c10feda0cccbfda51f33fee54883f79a6e42e36a1f7bd135ca7",
-        "download_count": 421,
+        "download_count": 423,
         "created_at": "2025-07-02T15:18:26Z",
         "updated_at": "2025-07-02T15:18:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.3/Surrealist_3.4.3_amd64.deb"
@@ -3106,6 +3112,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-06-27T14:13:23Z",
+    "updated_at": "2025-06-27T14:58:13Z",
     "published_at": "2025-06-27T14:58:13Z",
     "assets": [
       {
@@ -3319,7 +3326,7 @@
         "state": "uploaded",
         "size": 22651352,
         "digest": "sha256:01d5a223807b4cbf55535082f439f42b713de6fee4dd64e5fb2e0de8d901f670",
-        "download_count": 466,
+        "download_count": 468,
         "created_at": "2025-06-27T14:37:06Z",
         "updated_at": "2025-06-27T14:37:07Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.2/Surrealist_3.4.2_amd64.deb"
@@ -3616,6 +3623,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-06-21T00:36:04Z",
+    "updated_at": "2025-06-21T16:18:37Z",
     "published_at": "2025-06-21T16:18:37Z",
     "assets": [
       {
@@ -3829,7 +3837,7 @@
         "state": "uploaded",
         "size": 22675264,
         "digest": "sha256:1381c267b3a021c07a93a7a60c5fc50b4e67f651b142b0f9d8529e8482e994f0",
-        "download_count": 538,
+        "download_count": 540,
         "created_at": "2025-06-21T00:49:05Z",
         "updated_at": "2025-06-21T00:49:06Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.1/Surrealist_3.4.1_amd64.deb"
@@ -4126,6 +4134,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-06-20T12:52:07Z",
+    "updated_at": "2025-06-20T13:19:57Z",
     "published_at": "2025-06-20T13:19:57Z",
     "assets": [
       {
@@ -4339,7 +4348,7 @@
         "state": "uploaded",
         "size": 22674558,
         "digest": "sha256:83b69cd358d383632e3d0fc5ede1004cc72203d3501e360175da6407f4557c40",
-        "download_count": 457,
+        "download_count": 459,
         "created_at": "2025-06-20T13:02:20Z",
         "updated_at": "2025-06-20T13:02:21Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.4.0/Surrealist_3.4.0_amd64.deb"
@@ -4648,6 +4657,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-06-09T11:53:30Z",
+    "updated_at": "2025-06-09T12:18:17Z",
     "published_at": "2025-06-09T12:18:17Z",
     "assets": [
       {
@@ -4861,7 +4871,7 @@
         "state": "uploaded",
         "size": 17341442,
         "digest": "sha256:8b0d5b7cd1942179d60a4d3aed18098233544e2d4181b4bbe49fe28f244bdd0b",
-        "download_count": 682,
+        "download_count": 685,
         "created_at": "2025-06-09T12:05:11Z",
         "updated_at": "2025-06-09T12:05:12Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.5/Surrealist_3.3.5_amd64.deb"
@@ -5158,6 +5168,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-05-28T19:16:55Z",
+    "updated_at": "2025-05-29T11:11:41Z",
     "published_at": "2025-05-29T11:11:41Z",
     "assets": [
       {
@@ -5371,7 +5382,7 @@
         "state": "uploaded",
         "size": 17245908,
         "digest": null,
-        "download_count": 779,
+        "download_count": 782,
         "created_at": "2025-05-29T00:52:49Z",
         "updated_at": "2025-05-29T00:52:51Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.4/Surrealist_3.3.4_amd64.deb"
@@ -5668,6 +5679,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-05-23T11:30:23Z",
+    "updated_at": "2025-05-23T12:06:21Z",
     "published_at": "2025-05-23T12:06:21Z",
     "assets": [
       {
@@ -5881,7 +5893,7 @@
         "state": "uploaded",
         "size": 17247526,
         "digest": null,
-        "download_count": 766,
+        "download_count": 769,
         "created_at": "2025-05-23T11:41:12Z",
         "updated_at": "2025-05-23T11:41:13Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.3/Surrealist_3.3.3_amd64.deb"
@@ -6190,6 +6202,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-04-15T14:39:37Z",
+    "updated_at": "2025-04-15T15:35:27Z",
     "published_at": "2025-04-15T15:35:27Z",
     "assets": [
       {
@@ -6403,7 +6416,7 @@
         "state": "uploaded",
         "size": 17223628,
         "digest": null,
-        "download_count": 1365,
+        "download_count": 1368,
         "created_at": "2025-04-15T14:51:02Z",
         "updated_at": "2025-04-15T14:51:03Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.2/Surrealist_3.3.2_amd64.deb"
@@ -6712,6 +6725,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-04-01T14:36:08Z",
+    "updated_at": "2025-04-01T14:58:42Z",
     "published_at": "2025-04-01T14:58:42Z",
     "assets": [
       {
@@ -6925,7 +6939,7 @@
         "state": "uploaded",
         "size": 17246628,
         "digest": null,
-        "download_count": 1309,
+        "download_count": 1312,
         "created_at": "2025-04-01T14:50:41Z",
         "updated_at": "2025-04-01T14:50:42Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.1/Surrealist_3.3.1_amd64.deb"
@@ -7222,6 +7236,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-03-26T13:08:33Z",
+    "updated_at": "2025-03-26T13:39:04Z",
     "published_at": "2025-03-26T13:30:54Z",
     "assets": [
       {
@@ -7435,7 +7450,7 @@
         "state": "uploaded",
         "size": 17244862,
         "digest": null,
-        "download_count": 1287,
+        "download_count": 1290,
         "created_at": "2025-03-26T13:14:46Z",
         "updated_at": "2025-03-26T13:14:47Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.3.0/Surrealist_3.3.0_amd64.deb"
@@ -7744,6 +7759,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-21T14:02:36Z",
+    "updated_at": "2025-02-21T14:17:42Z",
     "published_at": "2025-02-21T14:17:42Z",
     "assets": [
       {
@@ -7957,7 +7973,7 @@
         "state": "uploaded",
         "size": 17186130,
         "digest": null,
-        "download_count": 1803,
+        "download_count": 1806,
         "created_at": "2025-02-21T14:15:07Z",
         "updated_at": "2025-02-21T14:15:08Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.2.4/Surrealist_3.2.4_amd64.deb"
@@ -8266,6 +8282,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-21T12:18:00Z",
+    "updated_at": "2025-02-21T12:43:14Z",
     "published_at": "2025-02-21T12:43:14Z",
     "assets": [
       {
@@ -8788,6 +8805,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-12T15:31:17Z",
+    "updated_at": "2025-02-12T15:41:51Z",
     "published_at": "2025-02-12T15:41:51Z",
     "assets": [
       {
@@ -9311,6 +9329,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-02-04T18:07:44Z",
+    "updated_at": "2025-02-04T18:27:30Z",
     "published_at": "2025-02-04T18:27:30Z",
     "assets": [
       {
@@ -9821,6 +9840,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-01-30T10:37:41Z",
+    "updated_at": "2025-01-30T12:14:50Z",
     "published_at": "2025-01-30T12:14:50Z",
     "assets": [
       {
@@ -10343,6 +10363,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-24T18:53:38Z",
+    "updated_at": "2024-12-24T19:28:36Z",
     "published_at": "2024-12-24T19:28:36Z",
     "assets": [
       {
@@ -10865,6 +10886,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-20T13:52:13Z",
+    "updated_at": "2024-12-20T14:04:55Z",
     "published_at": "2024-12-20T14:04:55Z",
     "assets": [
       {
@@ -11387,6 +11409,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-10T20:45:32Z",
+    "updated_at": "2024-12-10T21:20:03Z",
     "published_at": "2024-12-10T21:20:03Z",
     "assets": [
       {
@@ -11897,6 +11920,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-06T15:42:14Z",
+    "updated_at": "2024-12-06T16:05:30Z",
     "published_at": "2024-12-06T16:05:30Z",
     "assets": [
       {
@@ -12407,6 +12431,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-05T10:26:25Z",
+    "updated_at": "2024-12-05T11:02:12Z",
     "published_at": "2024-12-05T11:02:12Z",
     "assets": [
       {
@@ -12917,6 +12942,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-04T23:02:05Z",
+    "updated_at": "2024-12-05T00:37:38Z",
     "published_at": "2024-12-05T00:37:38Z",
     "assets": [
       {
@@ -13427,6 +13453,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-12-03T19:19:52Z",
+    "updated_at": "2024-12-03T19:41:00Z",
     "published_at": "2024-12-03T19:41:00Z",
     "assets": [
       {
@@ -13949,6 +13976,7 @@
     "immutable": false,
     "prerelease": true,
     "created_at": "2024-12-03T16:39:24Z",
+    "updated_at": "2024-12-03T17:05:12Z",
     "published_at": "2024-12-03T17:05:12Z",
     "assets": [
       {
@@ -14459,6 +14487,7 @@
     "immutable": false,
     "prerelease": true,
     "created_at": "2024-12-03T13:53:06Z",
+    "updated_at": "2024-12-03T14:13:16Z",
     "published_at": "2024-12-03T14:13:16Z",
     "assets": [
       {
@@ -14969,6 +14998,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-11-29T13:59:09Z",
+    "updated_at": "2024-11-29T14:19:50Z",
     "published_at": "2024-11-29T14:19:50Z",
     "assets": [
       {
@@ -15491,6 +15521,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-11-26T17:28:14Z",
+    "updated_at": "2024-11-26T17:44:35Z",
     "published_at": "2024-11-26T17:44:35Z",
     "assets": [
       {
@@ -16013,6 +16044,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-11-26T16:05:13Z",
+    "updated_at": "2024-11-26T16:36:50Z",
     "published_at": "2024-11-26T16:36:50Z",
     "assets": [
       {
@@ -16535,6 +16567,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-15T09:56:15Z",
+    "updated_at": "2024-10-15T10:09:15Z",
     "published_at": "2024-10-15T10:09:15Z",
     "assets": [
       {
@@ -17045,6 +17078,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-10T13:38:28Z",
+    "updated_at": "2024-10-10T13:58:35Z",
     "published_at": "2024-10-10T13:58:35Z",
     "assets": [
       {
@@ -17567,6 +17601,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-09T12:19:13Z",
+    "updated_at": "2024-10-09T12:29:28Z",
     "published_at": "2024-10-09T12:29:28Z",
     "assets": [
       {
@@ -18089,6 +18124,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-04T13:07:41Z",
+    "updated_at": "2024-10-04T13:19:46Z",
     "published_at": "2024-10-04T13:19:46Z",
     "assets": [
       {
@@ -18611,6 +18647,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-10-01T12:23:54Z",
+    "updated_at": "2024-10-01T12:32:01Z",
     "published_at": "2024-10-01T12:32:01Z",
     "assets": [
       {
@@ -19133,6 +19170,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-09-26T14:25:41Z",
+    "updated_at": "2024-09-26T14:44:22Z",
     "published_at": "2024-09-26T14:44:22Z",
     "assets": [
       {
@@ -19655,6 +19693,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-09-18T09:27:26Z",
+    "updated_at": "2024-09-18T09:47:52Z",
     "published_at": "2024-09-18T09:47:52Z",
     "assets": [
       {
@@ -20177,6 +20216,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-09-18T08:13:55Z",
+    "updated_at": "2024-09-18T09:03:41Z",
     "published_at": "2024-09-18T09:03:41Z",
     "assets": [
       {
@@ -20699,6 +20739,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-09-17T15:17:32Z",
+    "updated_at": "2024-09-17T15:47:58Z",
     "published_at": "2024-09-17T15:47:16Z",
     "assets": [
       {
@@ -21221,6 +21262,7 @@
     "immutable": false,
     "prerelease": true,
     "created_at": "2024-09-09T18:27:36Z",
+    "updated_at": "2024-09-09T18:59:58Z",
     "published_at": "2024-09-09T18:59:58Z",
     "assets": [
       {
@@ -21743,6 +21785,7 @@
     "immutable": false,
     "prerelease": true,
     "created_at": "2024-09-02T15:47:22Z",
+    "updated_at": "2024-09-02T16:03:31Z",
     "published_at": "2024-09-02T16:03:31Z",
     "assets": [
       {
@@ -22265,6 +22308,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-08-06T15:19:57Z",
+    "updated_at": "2024-08-06T15:43:06Z",
     "published_at": "2024-08-06T15:43:06Z",
     "assets": [
       {
@@ -22787,6 +22831,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-07-23T12:08:34Z",
+    "updated_at": "2024-07-23T15:56:49Z",
     "published_at": "2024-07-23T13:38:42Z",
     "assets": [
       {
@@ -23261,6 +23306,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-07-17T13:12:41Z",
+    "updated_at": "2024-07-17T13:40:36Z",
     "published_at": "2024-07-17T13:40:36Z",
     "assets": [
       {
@@ -23735,6 +23781,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-07-11T14:07:11Z",
+    "updated_at": "2024-07-11T15:53:01Z",
     "published_at": "2024-07-11T15:53:01Z",
     "assets": [
       {
@@ -24221,6 +24268,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-06-13T16:54:14Z",
+    "updated_at": "2024-06-13T20:34:34Z",
     "published_at": "2024-06-13T20:34:34Z",
     "assets": [
       {
@@ -24815,6 +24863,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-06-10T17:28:21Z",
+    "updated_at": "2024-06-10T18:18:27Z",
     "published_at": "2024-06-10T18:18:27Z",
     "assets": [
       {
@@ -25409,6 +25458,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-05-30T20:32:20Z",
+    "updated_at": "2024-06-10T17:26:36Z",
     "published_at": "2024-05-30T21:21:59Z",
     "assets": [
       {
@@ -26111,6 +26161,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-05-14T14:59:41Z",
+    "updated_at": "2024-05-30T21:29:57Z",
     "published_at": "2024-05-14T15:12:18Z",
     "assets": [
       {
@@ -26669,6 +26720,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-05-02T22:28:52Z",
+    "updated_at": "2024-05-02T22:47:30Z",
     "published_at": "2024-05-02T22:47:30Z",
     "assets": [
       {
@@ -27227,6 +27279,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-29T17:55:02Z",
+    "updated_at": "2024-04-29T19:53:24Z",
     "published_at": "2024-04-29T18:55:12Z",
     "assets": [
       {
@@ -27785,6 +27838,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-25T14:29:11Z",
+    "updated_at": "2024-04-29T18:05:36Z",
     "published_at": "2024-04-25T14:40:39Z",
     "assets": [
       {
@@ -28271,6 +28325,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-24T10:53:04Z",
+    "updated_at": "2024-04-29T18:05:52Z",
     "published_at": "2024-04-24T11:07:06Z",
     "assets": [
       {
@@ -28829,6 +28884,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-23T17:18:15Z",
+    "updated_at": "2024-04-29T18:06:10Z",
     "published_at": "2024-04-23T17:26:35Z",
     "assets": [
       {
@@ -29495,6 +29551,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-23T14:30:52Z",
+    "updated_at": "2024-04-23T16:26:57Z",
     "published_at": "2024-04-23T14:38:37Z",
     "assets": [
       {
@@ -30161,6 +30218,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-20T12:44:58Z",
+    "updated_at": "2024-04-20T13:10:52Z",
     "published_at": "2024-04-20T13:10:52Z",
     "assets": [
       {
@@ -30359,6 +30417,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-04-10T22:11:23Z",
+    "updated_at": "2024-04-11T05:42:49Z",
     "published_at": "2024-04-11T05:42:49Z",
     "assets": [
       {
@@ -30557,6 +30616,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-03-12T17:19:06Z",
+    "updated_at": "2024-03-12T17:43:24Z",
     "published_at": "2024-03-12T17:43:24Z",
     "assets": [
       {
@@ -30755,6 +30815,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-02-24T10:06:46Z",
+    "updated_at": "2024-02-24T10:27:21Z",
     "published_at": "2024-02-24T10:27:21Z",
     "assets": [
       {
@@ -30953,6 +31014,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-02-14T18:35:09Z",
+    "updated_at": "2024-02-18T21:59:14Z",
     "published_at": "2024-02-14T19:02:27Z",
     "assets": [
       {
@@ -31151,6 +31213,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-01-25T20:15:17Z",
+    "updated_at": "2024-01-25T23:05:50Z",
     "published_at": "2024-01-25T23:05:50Z",
     "assets": [
       {
@@ -31349,6 +31412,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2024-01-11T13:17:54Z",
+    "updated_at": "2024-01-11T13:54:14Z",
     "published_at": "2024-01-11T13:54:14Z",
     "assets": [
       {
@@ -31547,6 +31611,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-12-14T13:56:46Z",
+    "updated_at": "2023-12-14T14:40:16Z",
     "published_at": "2023-12-14T14:09:23Z",
     "assets": [
       {
@@ -31745,6 +31810,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-12-14T13:05:58Z",
+    "updated_at": "2023-12-14T14:10:10Z",
     "published_at": "2023-12-14T14:02:09Z",
     "assets": [
       {
@@ -31943,6 +32009,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-10-26T22:47:27Z",
+    "updated_at": "2023-10-26T23:16:16Z",
     "published_at": "2023-10-26T23:16:16Z",
     "assets": [
       {
@@ -32141,6 +32208,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-10-24T07:43:36Z",
+    "updated_at": "2023-10-24T08:04:14Z",
     "published_at": "2023-10-24T08:04:14Z",
     "assets": [
       {
@@ -32339,6 +32407,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-09-29T16:13:38Z",
+    "updated_at": "2023-09-29T18:57:36Z",
     "published_at": "2023-09-29T18:57:20Z",
     "assets": [
       {
@@ -32537,6 +32606,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-09-24T21:58:36Z",
+    "updated_at": "2023-09-24T22:55:22Z",
     "published_at": "2023-09-24T22:52:03Z",
     "assets": [
       {
@@ -32735,6 +32805,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-09-20T06:44:42Z",
+    "updated_at": "2023-09-20T08:19:38Z",
     "published_at": "2023-09-20T08:19:38Z",
     "assets": [
       {
@@ -32933,6 +33004,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-09-09T10:26:38Z",
+    "updated_at": "2023-09-09T12:46:52Z",
     "published_at": "2023-09-09T12:46:52Z",
     "assets": [
       {
@@ -33131,6 +33203,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-09-04T12:34:44Z",
+    "updated_at": "2023-09-04T13:51:53Z",
     "published_at": "2023-09-04T13:51:53Z",
     "assets": [
       {
@@ -33329,6 +33402,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-08-14T14:44:05Z",
+    "updated_at": "2023-08-14T18:58:21Z",
     "published_at": "2023-08-14T18:58:21Z",
     "assets": [
       {
@@ -33515,6 +33589,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-08-10T21:56:36Z",
+    "updated_at": "2023-08-13T14:48:33Z",
     "published_at": "2023-08-10T22:30:19Z",
     "assets": [
       {
@@ -33713,6 +33788,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-08-10T21:39:12Z",
+    "updated_at": "2023-08-13T14:48:13Z",
     "published_at": "2023-08-10T22:29:14Z",
     "assets": [
       {
@@ -33911,6 +33987,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-07-31T12:03:13Z",
+    "updated_at": "2023-08-10T13:08:01Z",
     "published_at": "2023-07-31T13:07:39Z",
     "assets": [
       {
@@ -34109,6 +34186,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-07-31T12:02:48Z",
+    "updated_at": "2023-08-10T13:08:26Z",
     "published_at": "2023-07-31T13:07:31Z",
     "assets": [
       {
@@ -34307,6 +34385,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-07-08T19:59:50Z",
+    "updated_at": "2023-07-08T22:15:02Z",
     "published_at": "2023-07-08T22:15:02Z",
     "assets": [
       {
@@ -34505,6 +34584,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-06-23T08:03:24Z",
+    "updated_at": "2023-06-23T08:51:29Z",
     "published_at": "2023-06-23T08:51:29Z",
     "assets": [
       {
@@ -34703,6 +34783,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-06-12T13:31:47Z",
+    "updated_at": "2023-06-12T15:15:07Z",
     "published_at": "2023-06-12T15:15:07Z",
     "assets": [
       {
@@ -34901,6 +34982,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-05-11T07:12:22Z",
+    "updated_at": "2023-06-09T19:34:56Z",
     "published_at": "2023-05-11T07:26:13Z",
     "assets": [
       {
@@ -35099,6 +35181,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-05-10T23:03:46Z",
+    "updated_at": "2023-05-11T07:23:29Z",
     "published_at": "2023-05-11T07:18:46Z",
     "assets": [
       {
@@ -35285,6 +35368,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-04-10T11:35:23Z",
+    "updated_at": "2023-06-09T19:35:44Z",
     "published_at": "2023-04-10T14:33:53Z",
     "assets": [
       {
@@ -35483,6 +35567,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-03-30T13:41:38Z",
+    "updated_at": "2023-06-09T19:36:55Z",
     "published_at": "2023-03-30T13:52:41Z",
     "assets": [
       {
@@ -35681,6 +35766,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-03-07T13:46:47Z",
+    "updated_at": "2023-06-09T19:37:10Z",
     "published_at": "2023-03-07T13:56:59Z",
     "assets": [
       {
@@ -35879,6 +35965,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-03-03T09:46:57Z",
+    "updated_at": "2023-06-09T19:37:28Z",
     "published_at": "2023-03-03T12:33:58Z",
     "assets": [
       {
@@ -35948,7 +36035,7 @@
         "state": "uploaded",
         "size": 79115456,
         "digest": null,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2023-03-03T09:56:21Z",
         "updated_at": "2023-03-03T09:56:25Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.1/surrealist-v1.6.1-linux.AppImage"
@@ -36077,6 +36164,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-03-03T08:03:50Z",
+    "updated_at": "2023-06-09T19:37:53Z",
     "published_at": "2023-03-03T08:55:54Z",
     "assets": [
       {
@@ -36275,6 +36363,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-02-06T16:21:58Z",
+    "updated_at": "2023-02-06T22:55:50Z",
     "published_at": "2023-02-06T22:55:50Z",
     "assets": [
       {
@@ -36461,6 +36550,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-02-04T20:28:06Z",
+    "updated_at": "2023-02-04T20:46:13Z",
     "published_at": "2023-02-04T20:46:13Z",
     "assets": [
       {
@@ -36659,6 +36749,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-01-28T23:35:16Z",
+    "updated_at": "2023-01-29T12:27:34Z",
     "published_at": "2023-01-29T00:16:59Z",
     "assets": [
       {
@@ -36857,6 +36948,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-01-26T00:52:20Z",
+    "updated_at": "2023-01-26T12:07:55Z",
     "published_at": "2023-01-26T12:07:27Z",
     "assets": [
       {
@@ -37043,6 +37135,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2023-01-02T00:52:53Z",
+    "updated_at": "2023-01-02T01:04:13Z",
     "published_at": "2023-01-02T01:04:13Z",
     "assets": [
       {
@@ -37229,6 +37322,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-31T22:04:20Z",
+    "updated_at": "2023-01-01T02:33:12Z",
     "published_at": "2023-01-01T01:31:39Z",
     "assets": [
       {
@@ -37427,6 +37521,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-21T22:35:10Z",
+    "updated_at": "2022-12-22T20:51:17Z",
     "published_at": "2022-12-22T20:50:11Z",
     "assets": [
       {
@@ -37613,6 +37708,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-17T16:48:54Z",
+    "updated_at": "2022-12-17T17:04:31Z",
     "published_at": "2022-12-17T16:52:33Z",
     "assets": [
       {
@@ -37763,6 +37859,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-15T23:44:39Z",
+    "updated_at": "2022-12-17T16:25:28Z",
     "published_at": "2022-12-15T23:55:29Z",
     "assets": [
       {
@@ -37877,6 +37974,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-15T12:23:45Z",
+    "updated_at": "2022-12-16T09:22:05Z",
     "published_at": "2022-12-15T12:33:31Z",
     "assets": [
       {
@@ -37991,6 +38089,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-14T15:08:24Z",
+    "updated_at": "2022-12-16T09:22:27Z",
     "published_at": "2022-12-14T15:16:55Z",
     "assets": [
       {
@@ -38069,6 +38168,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2022-12-13T23:38:17Z",
+    "updated_at": "2022-12-14T15:13:00Z",
     "published_at": "2022-12-13T23:43:48Z",
     "assets": [
       {
