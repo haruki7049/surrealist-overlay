@@ -356,7 +356,7 @@
         "state": "uploaded",
         "size": 16401327,
         "digest": "sha256:7324d38c17a69a7b333c55f69947e0c4b1e3f0d2454fe71a48a41f2ca4d2e5ad",
-        "download_count": 38,
+        "download_count": 39,
         "created_at": "2026-03-18T19:15:33Z",
         "updated_at": "2026-03-18T19:15:34Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.7.4/Surrealist_3.7.4_x64-setup.exe"
