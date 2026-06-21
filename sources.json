@@ -176,7 +176,7 @@
         "state": "uploaded",
         "size": 41739466,
         "digest": "sha256:abad145d02d030327d9c6d90053ece80b23389ebff3a06b5c2227e9066dffee3",
-        "download_count": 30,
+        "download_count": 31,
         "created_at": "2026-06-17T19:17:43Z",
         "updated_at": "2026-06-17T19:17:45Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_3.9.1_aarch64.dmg"
@@ -212,7 +212,7 @@
         "state": "uploaded",
         "size": 120093176,
         "digest": "sha256:21b7fe17d556ed6a86f67819dab6fa213ce6fcad4c1ce8dae2bd2ab107cc9b63",
-        "download_count": 12,
+        "download_count": 14,
         "created_at": "2026-06-17T19:19:39Z",
         "updated_at": "2026-06-17T19:19:44Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_3.9.1_amd64.AppImage"
@@ -284,7 +284,7 @@
         "state": "uploaded",
         "size": 43394608,
         "digest": "sha256:ee5459b65afef8dfd9fc42fab67a207b0504b8f0d0abb70d63a4bf5de95b4ff3",
-        "download_count": 120,
+        "download_count": 127,
         "created_at": "2026-06-17T19:19:33Z",
         "updated_at": "2026-06-17T19:19:35Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_3.9.1_amd64.deb"
@@ -356,7 +356,7 @@
         "state": "uploaded",
         "size": 37221327,
         "digest": "sha256:fde74abd85665bcaecf89dd82bf197c289af409c4cf9f05df3d60fb1c8d69cc1",
-        "download_count": 105,
+        "download_count": 116,
         "created_at": "2026-06-17T19:19:30Z",
         "updated_at": "2026-06-17T19:19:32Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_3.9.1_x64-setup.exe"
@@ -464,7 +464,7 @@
         "state": "uploaded",
         "size": 40931406,
         "digest": "sha256:8eacd6fb7945c2a162279c0203ff3b6b5f70e0399faf9cb9909c4b00a89966ce",
-        "download_count": 54,
+        "download_count": 57,
         "created_at": "2026-06-17T19:17:45Z",
         "updated_at": "2026-06-17T19:17:47Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_aarch64.app.tar.gz"
@@ -536,7 +536,7 @@
         "state": "uploaded",
         "size": 41280350,
         "digest": "sha256:f4057b1b1445edba313c846c739def307ae80b8a1b3157495b750ed97312e044",
-        "download_count": 2,
+        "download_count": 4,
         "created_at": "2026-06-17T19:16:47Z",
         "updated_at": "2026-06-17T19:16:50Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.1/Surrealist_x64.app.tar.gz"
