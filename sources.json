@@ -176,7 +176,7 @@
         "state": "uploaded",
         "size": 41229900,
         "digest": "sha256:860145d8594ae124cd6485f45e5c590598c6ce35668a2d295a7ffdb94c1c1ffb",
-        "download_count": 12,
+        "download_count": 18,
         "created_at": "2026-07-31T17:46:25Z",
         "updated_at": "2026-07-31T17:46:27Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_3.9.9_aarch64.dmg"
@@ -284,7 +284,7 @@
         "state": "uploaded",
         "size": 43269428,
         "digest": "sha256:143eb061f340d324525a2b632c3c2a3398a9ebdc835e98810ee56730c157082d",
-        "download_count": 16,
+        "download_count": 20,
         "created_at": "2026-07-31T17:52:29Z",
         "updated_at": "2026-07-31T17:52:31Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_3.9.9_amd64.deb"
@@ -320,7 +320,7 @@
         "state": "uploaded",
         "size": 416,
         "digest": "sha256:1f27d0b9830a0f7d0d6f83c54122cf126a588b3e87e7b2d398222237d5bea908",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-07-31T17:52:32Z",
         "updated_at": "2026-07-31T17:52:32Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_3.9.9_amd64.deb.sig"
@@ -356,7 +356,7 @@
         "state": "uploaded",
         "size": 37327846,
         "digest": "sha256:375770117df9c80bb2e241e3cbd0d903113653d8a31af3d14e664e2030d57c8e",
-        "download_count": 49,
+        "download_count": 59,
         "created_at": "2026-07-31T17:50:37Z",
         "updated_at": "2026-07-31T17:50:40Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_3.9.9_x64-setup.exe"
@@ -464,7 +464,7 @@
         "state": "uploaded",
         "size": 40421398,
         "digest": "sha256:8398c892e3b2343d0eb2a506336f5cbf09bad8df020a8f27dbbbad3448f79bf0",
-        "download_count": 29,
+        "download_count": 32,
         "created_at": "2026-07-31T17:46:28Z",
         "updated_at": "2026-07-31T17:46:30Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_aarch64.app.tar.gz"
@@ -536,7 +536,7 @@
         "state": "uploaded",
         "size": 41057573,
         "digest": "sha256:a920efe82d18e47cfb9c7fdcfc90b0e0b993ee15d33bcf822520e7a9ff28f6d1",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-07-31T17:45:37Z",
         "updated_at": "2026-07-31T17:45:39Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.9/Surrealist_x64.app.tar.gz"
@@ -867,7 +867,7 @@
         "state": "uploaded",
         "size": 43270610,
         "digest": "sha256:593961ede9471ec38f9ca50c58b841a110c2b463d5be84b94bcd03f5f9d69157",
-        "download_count": 123,
+        "download_count": 128,
         "created_at": "2026-07-28T12:04:13Z",
         "updated_at": "2026-07-28T12:04:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.9.8/Surrealist_3.9.8_amd64.deb"
@@ -11697,7 +11697,7 @@
         "state": "uploaded",
         "size": 19846518,
         "digest": "sha256:4b4c0270a49cbc3390c12bfa11efda8b9f4ebd2807eda92358e8aeab85ea5fbc",
-        "download_count": 11,
+        "download_count": 12,
         "created_at": "2026-02-17T20:30:39Z",
         "updated_at": "2026-02-17T20:30:40Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/surrealist-v3.7.0/Surrealist_x64.app.tar.gz"
@@ -61061,7 +61061,7 @@
         "state": "uploaded",
         "size": 6877184,
         "digest": null,
-        "download_count": 1582,
+        "download_count": 1583,
         "created_at": "2023-03-30T13:50:14Z",
         "updated_at": "2023-03-30T13:50:15Z",
         "browser_download_url": "https://github.com/surrealdb/surrealist/releases/download/v1.6.3/surrealist-v1.6.3-windows.msi"
